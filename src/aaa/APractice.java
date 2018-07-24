@@ -10,7 +10,7 @@ package aaa;
 		 static
 		 { result += "u"; }
 		 { result += "r"; }
-		 
+
 		 
 		 }
 	
